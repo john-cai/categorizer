@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/john-cai/categorizer",
+	"GoVersion": "go1.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/negroni",
+			"Comment": "v0.1-16-ga806ce7",
+			"Rev": "a806ce72c275b52932b38eb28fa394773f0fac66"
+		}
+	]
+}
